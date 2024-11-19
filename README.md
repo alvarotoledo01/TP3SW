@@ -1,7 +1,7 @@
 # TP3SW
 
-- Guitian, Milena de los Angeles - 52449
-- 
+● Guitian, Milena de los Angeles - 52449
+
 ● Toledo, Alvaro Julian - 52721
 
 ● Veliz, Hector Matias - 52417
